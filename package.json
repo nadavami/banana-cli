@@ -1,0 +1,9 @@
+{
+  "name": "banana-cli",
+  "version": "1.0.0",
+  "description": "A swagger paser for the Kong admin API.",
+  "main": "index.js",
+  "repository": "https://github.com/nadavami/banana-cli.git",
+  "author": "Nadav Ami <x@nadav.ca>",
+  "license": "MIT"
+}
