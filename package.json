@@ -11,5 +11,8 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^23.1.0"
+  },
+  "dependencies": {
+    "swagger-parser": "^5.0.0"
   }
 }
