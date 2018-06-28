@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A swagger paser for the Kong admin API.",
   "main": "index.js",
+  "bin": "./index.js",
   "scripts": {
     "test": "yarn lint && ./node_modules/.bin/jest",
     "lint": "./node_modules/.bin/standard"
