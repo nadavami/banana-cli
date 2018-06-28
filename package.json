@@ -4,13 +4,15 @@
   "description": "A swagger paser for the Kong admin API.",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/jest"
+    "test": "yarn lint && ./node_modules/.bin/jest",
+    "lint": "./node_modules/.bin/standard"
   },
   "repository": "https://github.com/nadavami/banana-cli.git",
   "author": "Nadav Ami <x@nadav.ca>",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^23.1.0"
+    "jest": "^23.1.0",
+    "standard": "^11.0.1"
   },
   "dependencies": {
     "swagger-parser": "^5.0.0"

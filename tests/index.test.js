@@ -1,3 +1,5 @@
+/* eslint-env jest */
+
 const util = require('util')
 const execFile = util.promisify(require('child_process').execFile)
 
