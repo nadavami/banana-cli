@@ -1,6 +1,6 @@
 {
   "name": "banana-cli",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.1",
   "description": "A swagger paser for the Kong admin API.",
   "main": "index.js",
   "bin": "./index.js",
