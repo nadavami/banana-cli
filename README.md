@@ -6,8 +6,7 @@ Banana CLI is a swagger interface to Kong's admin API.
 
 ## Install
 ```bash
-git clone https://github.com/nadavami/banana-cli
-yarn global add file:$PWD
+yarn global add banana-cli
 ```
 
 ## Usage
